@@ -1,5 +1,6 @@
 # NFD_SpaakBuche2024
 Shiny App to understand the new interpretation of ND and FD from Buche and Spaak, 2024. 
+Zenodo releae v.0.  DOI: 10.5281/zenodo.12682869
 
 To run the shiny app, first run the shiny toolbox.R to have all the functions in your environment. Then you can run the ShinyApp.R to pley. 
 The figures match the ones from the manuscript. 
